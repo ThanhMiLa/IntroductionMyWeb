@@ -1,0 +1,44 @@
+/* 3. Định dạng thẻ body */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* 4. Định dạng thẻ tiêu đề (giả sử class là .tieu-de) */
+.tieu-de {
+  background-color: #e0f7fa;
+}
+
+/* 5. Định dạng thẻ điều hướng (giả sử là nav) */
+nav {
+  background-color: #b2ebf2;
+}
+
+/* 6. Định dạng thẻ chính (giả sử là main) */
+main {
+  background-color: #ffffff;
+  font-size: 18px;
+}
+
+/* 7. Định dạng thẻ chân trang (giả sử là footer) */
+footer {
+  background-color: #80deea;
+}
+
+/* 8. Định dạng thẻ li */
+li {
+  display: inline-block;
+  width: 150px;
+}
+
+/* 9. Định dạng thẻ h1 */
+h1 {
+  text-align: center;
+  color: #00796b;
+  font-family: 'Verdana', sans-serif;
+}
+
+/* 10. Định dạng thẻ p */
+p {
+  line-height: 1.6;
+}
